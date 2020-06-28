@@ -1,5 +1,4 @@
-server:
-  port: 5555
-
 config:
   info: 4008820820
+  server:
+    port: 5555
